@@ -1,0 +1,29 @@
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmAddCategoryAdmin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmAddProduct.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmAddProductAdmin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmChangePasswor.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmChangePassword.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmCustomer.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmCustomerReport.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmLoding.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmAdminMDI.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmLogin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmProfileAdmin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmRegistrationNewUser.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmReportAdmin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmSaleProduct.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmSeleProductAdmin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmUserLogin.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.MDI.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmUserProfile.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.frmUsersChoice.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy_Shop.Properties.Resources.resources
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy Shop.csproj.GenerateResource.Cache
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\bin\Debug\Toy Shop.exe.config
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\bin\Debug\TOY_SHOP.mdf
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\bin\Debug\TOY_SHOP_log.ldf
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\bin\Debug\Toy Shop.exe
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\bin\Debug\Toy Shop.pdb
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy Shop.exe
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy Shop.pdb
+C:\Users\Bharat\Desktop\h\Toy Shop\Toy Shop\obj\x86\Debug\Toy Shop.csprojResolveAssemblyReference.cache
